@@ -22,7 +22,7 @@ This is a starter project for building mobile and web applications using Ionic V
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/ionic-vue-starter.git
+    https://github.com/francis-Paul-code/ionic-vue-starter.git
     cd ionic-vue-starter
     ```
 
